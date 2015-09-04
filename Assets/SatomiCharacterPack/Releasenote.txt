@@ -1,0 +1,33 @@
+-------------------------------------------
+
+GameAssetStudio
+http://gameassetstudio.com/
+
+-------------------------------------------
+
+===========================================
+ Ver 1.05 Update Information
+===========================================
+[Unity5]
+1. We have adjusted the Shader default value according to DirectionalLight intensity 1.0.
+
+
+ ===========================================
+ Ver 1.04 Update Information
+ ===========================================
+
+1.In Unity 4.6.2 and higher versions the Cutoff in the toon_cutoff shader wasn't working properly. This has been fixed.
+2.Adjusted the light in viewer.
+3.You can now set the Alpha cutoff of the toon_cutoff shader. 0.9 is the recommended setting.
+
+
+===========================================
+ Ver 1.03 Update Information
+===========================================
+1.The following simplified versions of the idle animations have been added.
+
+- f05@f05_idle_01
+- f05@f05_idle_11
+
+2.Some directory names have been changed.
+3.Some file names have been changed.

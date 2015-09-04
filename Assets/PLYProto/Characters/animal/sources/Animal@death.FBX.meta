@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: 4814d95055499c84ea139f0b48f7772e
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Belly
+    100004: Belly 1
+    100006: Belly_Control
+    100008: Chest
+    100010: Chest 1
+    100012: Chest_Control
+    100014: Head
+    100016: Head 1
+    100018: Head_Control
+    100020: Hips
+    100022: Hips 1
+    100024: Hips_Control
+    100026: ikHandle3
+    100028: ikHandle4
+    100030: ikHandle5
+    100032: ikHandle6
+    100034: joint23
+    100036: joint27
+    100038: joint27 1
+    100040: joint32
+    100042: joint32 1
+    100044: joint37
+    100046: joint51
+    100048: joint51 1
+    100050: joint55
+    100052: joint55 1
+    100054: L_Back_PV
+    100056: L_BackLeg_Control
+    100058: L_BackLeg_Foot
+    100060: L_BackLeg_Rev1
+    100062: L_BackLeg_Rev2
+    100064: L_BackLeg_Rev3
+    100066: L_BackLeg_Shin
+    100068: L_BackLeg_Thigh
+    100070: L_BackLeg_Toe
+    100072: L_Front_PV
+    100074: L_FrontLeg_Control
+    100076: L_FrontLeg_Foot
+    100078: L_FrontLeg_Rev1
+    100080: L_FrontLeg_Rev2
+    100082: L_FrontLeg_Shin
+    100084: L_FrontLeg_Thigh
+    100086: Left_BackLeg_Foot
+    100088: Left_BackLeg_Foot1
+    100090: Left_BackLeg_Shin
+    100092: Left_BackLeg_Shin1
+    100094: Left_BackLeg_Thigh
+    100096: Left_BackLeg_Thigh1
+    100098: Left_BackLeg_Toe
+    100100: Left_BackLeg_Toe1
+    100102: Left_FrontLeg_Foot
+    100104: Left_FrontLeg_Foot1
+    100106: Left_FrontLeg_Shin
+    100108: Left_FrontLeg_Shin1
+    100110: Left_FrontLeg_Thigh
+    100112: Left_FrontLeg_Thigh1
+    100114: Master_Control
+    100116: Neck
+    100118: Neck 1
+    100120: Neck_Control
+    100122: R_BackLeg_Control
+    100124: R_BackLeg_Foot
+    100126: R_BackLeg_Rev1
+    100128: R_BackLeg_Rev2
+    100130: R_BackLeg_Rev3
+    100132: R_BackLeg_Shin
+    100134: R_BackLeg_Thigh
+    100136: R_BackLeg_Toe
+    100138: R_Bacl_Pv
+    100140: R_Front_PV
+    100142: R_FrontLeg_Control
+    100144: R_FrontLeg_Foot
+    100146: R_FrontLeg_Rev1
+    100148: R_FrontLeg_Rev2
+    100150: R_FrontLeg_Shin
+    100152: R_FrontLeg_Thigh
+    100154: Tail01
+    100156: Tail01_Control
+    100158: Tail02
+    100160: Tail02_Control
+    100162: Tail03
+    100164: Tail03_Control
+    100166: Tail_01
+    100168: Tail_02
+    100170: Tail_03
+    400000: //RootNode
+    400002: Belly
+    400004: Belly 1
+    400006: Belly_Control
+    400008: Chest
+    400010: Chest 1
+    400012: Chest_Control
+    400014: Head
+    400016: Head 1
+    400018: Head_Control
+    400020: Hips
+    400022: Hips 1
+    400024: Hips_Control
+    400026: ikHandle3
+    400028: ikHandle4
+    400030: ikHandle5
+    400032: ikHandle6
+    400034: joint23
+    400036: joint27
+    400038: joint27 1
+    400040: joint32
+    400042: joint32 1
+    400044: joint37
+    400046: joint51
+    400048: joint51 1
+    400050: joint55
+    400052: joint55 1
+    400054: L_Back_PV
+    400056: L_BackLeg_Control
+    400058: L_BackLeg_Foot
+    400060: L_BackLeg_Rev1
+    400062: L_BackLeg_Rev2
+    400064: L_BackLeg_Rev3
+    400066: L_BackLeg_Shin
+    400068: L_BackLeg_Thigh
+    400070: L_BackLeg_Toe
+    400072: L_Front_PV
+    400074: L_FrontLeg_Control
+    400076: L_FrontLeg_Foot
+    400078: L_FrontLeg_Rev1
+    400080: L_FrontLeg_Rev2
+    400082: L_FrontLeg_Shin
+    400084: L_FrontLeg_Thigh
+    400086: Left_BackLeg_Foot
+    400088: Left_BackLeg_Foot1
+    400090: Left_BackLeg_Shin
+    400092: Left_BackLeg_Shin1
+    400094: Left_BackLeg_Thigh
+    400096: Left_BackLeg_Thigh1
+    400098: Left_BackLeg_Toe
+    400100: Left_BackLeg_Toe1
+    400102: Left_FrontLeg_Foot
+    400104: Left_FrontLeg_Foot1
+    400106: Left_FrontLeg_Shin
+    400108: Left_FrontLeg_Shin1
+    400110: Left_FrontLeg_Thigh
+    400112: Left_FrontLeg_Thigh1
+    400114: Master_Control
+    400116: Neck
+    400118: Neck 1
+    400120: Neck_Control
+    400122: R_BackLeg_Control
+    400124: R_BackLeg_Foot
+    400126: R_BackLeg_Rev1
+    400128: R_BackLeg_Rev2
+    400130: R_BackLeg_Rev3
+    400132: R_BackLeg_Shin
+    400134: R_BackLeg_Thigh
+    400136: R_BackLeg_Toe
+    400138: R_Bacl_Pv
+    400140: R_Front_PV
+    400142: R_FrontLeg_Control
+    400144: R_FrontLeg_Foot
+    400146: R_FrontLeg_Rev1
+    400148: R_FrontLeg_Rev2
+    400150: R_FrontLeg_Shin
+    400152: R_FrontLeg_Thigh
+    400154: Tail01
+    400156: Tail01_Control
+    400158: Tail02
+    400160: Tail02_Control
+    400162: Tail03
+    400164: Tail03_Control
+    400166: Tail_01
+    400168: Tail_02
+    400170: Tail_03
+    4300000: Head
+    4300002: Neck
+    4300004: Chest
+    4300006: Left_FrontLeg_Thigh
+    4300008: Left_FrontLeg_Shin
+    4300010: Left_FrontLeg_Foot
+    4300012: Belly
+    4300014: Hips
+    4300016: Left_BackLeg_Thigh
+    4300018: Left_BackLeg_Shin
+    4300020: Left_BackLeg_Foot
+    4300022: Left_BackLeg_Toe
+    4300024: Tail01
+    4300026: Tail02
+    4300028: Tail03
+    4300030: Left_FrontLeg_Foot1
+    4300032: Left_FrontLeg_Shin1
+    4300034: Left_FrontLeg_Thigh1
+    4300036: Left_BackLeg_Thigh1
+    4300038: Left_BackLeg_Shin1
+    4300040: Left_BackLeg_Foot1
+    4300042: Left_BackLeg_Toe1
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Belly
+    13700002: Chest
+    13700004: Head
+    13700006: Hips
+    13700008: Left_BackLeg_Foot
+    13700010: Left_BackLeg_Foot1
+    13700012: Left_BackLeg_Shin
+    13700014: Left_BackLeg_Shin1
+    13700016: Left_BackLeg_Thigh
+    13700018: Left_BackLeg_Thigh1
+    13700020: Left_BackLeg_Toe
+    13700022: Left_BackLeg_Toe1
+    13700024: Left_FrontLeg_Foot
+    13700026: Left_FrontLeg_Foot1
+    13700028: Left_FrontLeg_Shin
+    13700030: Left_FrontLeg_Shin1
+    13700032: Left_FrontLeg_Thigh
+    13700034: Left_FrontLeg_Thigh1
+    13700036: Neck
+    13700038: Tail01
+    13700040: Tail02
+    13700042: Tail03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
